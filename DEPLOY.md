@@ -5,7 +5,7 @@
     ```js
     // @file vite.config.js
     export default defineConfig({
-        base: '/devops-s03-deploy/', // nom du dépôt
+        base: '/Test_deploy1/', // nom du dépôt
         plugins: [svelte()],
         // ...
     })
@@ -63,6 +63,6 @@
    choisir la branche `gh-pages` et enregistrer
 
 → le site devrait être accessible à l'adresse :  
-<https://votre_pseudo.github.io/votre_projet/>
+<https://L-Christ-ASD.github.io/Test_deploy1/>
 
 > avec, ici, `votre projet` = `devops-s03-deploy`    
